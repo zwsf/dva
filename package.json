@@ -1,4 +1,5 @@
 {
+  "name": "dva-next",
   "private": true,
   "scripts": {
     "build": "father-build",
